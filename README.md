@@ -1,4 +1,4 @@
-# Open my Soundcloud accound and scroll down the page and get the whole html code of the page to get the Tracklist with selenium.
+# Open my Soundcloud account and scroll down the page and get the whole html code of the page to get the Tracklist with selenium.
 
 
 from selenium import webdriver
